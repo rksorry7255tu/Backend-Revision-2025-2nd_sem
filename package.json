@@ -21,6 +21,7 @@
   "homepage": "https://github.com/rksorry7255tu/Backend-Revision-2025-2nd_sem#readme",
   "dependencies": {
     "express": "^5.2.1",
-    "nodemon": "^3.1.11"
+    "nodemon": "^3.1.11",
+    "prettier": "^3.7.4"
   }
 }
